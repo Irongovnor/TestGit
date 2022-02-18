@@ -5,5 +5,6 @@ public class TheBigDuMB {
         System.out.println("Underkast jer!");
         System.out.println("mE sMArT");
         System.out.println("Alin baiter igen igen");
+        System.out.println("Bøøøøøøøh");
     }
 }
