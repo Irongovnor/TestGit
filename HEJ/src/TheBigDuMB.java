@@ -10,6 +10,7 @@ public class TheBigDuMB {
 
         System.out.println("Fuck");
         System.out.println("Hov hov");
+        System.out.println("Yes boi");
         // hej hej
     }
 }
