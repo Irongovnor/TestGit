@@ -5,6 +5,6 @@ public class Opg2 {
         
         
         System.out.println("Bye");
-        System.out.println("stuff");
+        System.out.println("Emil snydefar");
     }
 }
